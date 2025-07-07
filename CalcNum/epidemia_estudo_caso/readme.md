@@ -10,6 +10,8 @@
 </p>
 ---
 
+
+
 [![Python](https://img.shields.io/badge/Python-3.10%2B-blue?logo=python)](https://www.python.org/)
 [![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange?logo=jupyter)](https://jupyter.org/)
 [![EDO](https://img.shields.io/badge/Math-EDO-green.svg)](LICENSE)
@@ -69,6 +71,7 @@ Cada modelo foi simulado com dois conjuntos de parâmetros para comparar o compo
 ## Contribuição
 Sinta-se à vontade para contribuir com melhorias ou novos modelos. Abra um pull request com suas alterações.
 
+---
 # Author
 
 | [<img src="https://avatars.githubusercontent.com/u/79289647?v=4" width=115><br><sub>Carlos Hayden</sub>](https://github.com/JunhaumHayden) |
