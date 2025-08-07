@@ -9,8 +9,14 @@
 ---
 
 
+
 [![Python](https://img.shields.io/badge/Python-3.10%2B-blue?logo=python)](https://www.python.org/)
 [![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange?logo=jupyter)](https://jupyter.org/)
+[![Pandas](https://img.shields.io/badge/Pandas-1.5%2B-lightgrey?logo=pandas)](https://pandas.pydata.org/)
+[![scikit-learn](https://img.shields.io/badge/scikit--learn-1.1%2B-F7931E?logo=scikit-learn)](https://scikit-learn.org/)
+[![Seaborn](https://img.shields.io/badge/Seaborn-0.11%2B-lightblue?logo=python)](https://seaborn.pydata.org/)
+[![Matplotlib](https://img.shields.io/badge/Matplotlib-3.5%2B-darkgreen?logo=python)](https://matplotlib.org/)
+[![imbalanced-learn](https://img.shields.io/badge/imblearn-SMOTE-red)](https://imbalanced-learn.org/)
 [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/license/mit/)
 [![Made with Love](https://img.shields.io/badge/Made%20with-Love-red?logo=heart)]()
 [![Magic](https://img.shields.io/badge/Magic-Math%20%26%20Code-purple)](https://www.youtube.com/watch?v=3o1_1zGQ9K4)
