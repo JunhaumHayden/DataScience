@@ -21,7 +21,9 @@
 [![Made with Love](https://img.shields.io/badge/Made%20with-Love-red?logo=heart)]()
 [![Magic](https://img.shields.io/badge/Magic-Math%20%26%20Code-purple)](https://www.youtube.com/watch?v=3o1_1zGQ9K4)
 
-[![GitHub](https://img.shields.io/github/stars/JunhaumHayden/DataSciencePlayground?style=social)](https://github.com/JunhaumHayden/DataScience)
+[![GitHub Repo stars](https://img.shields.io/github/stars/JunhaumHayden/DataScience?style=social)](https://github.com/JunhaumHayden/DataScience)
+[![GitHub forks](https://img.shields.io/github/forks/JunhaumHayden/DataScience?style=social)](https://github.com/JunhaumHayden/DataScience/fork)
+[![GitHub watchers](https://img.shields.io/github/watchers/JunhaumHayden/DataScience?style=social)](https://github.com/JunhaumHayden/DataScience/watchers)
 
 
 # 🧪 Hayden's Lab of Data Science Experiments
