@@ -1,17 +1,21 @@
-<h1 align="center">  📊 Modelagem da Dinâmica de Doenças com EDOs – SIR, SIRS e SIRV </h1>
+<h1 align="center">  📊 Hayden's Data Science Playground </h1>
 
 
 
 <p align="center">
 <img src="http://img.shields.io/static/v1?label=STATUS&message=Em%20Desenvolvimento&color=GREEN&style=for-the-badge"/>
 </p>
----
 
+---
 
 
 [![Python](https://img.shields.io/badge/Python-3.10%2B-blue?logo=python)](https://www.python.org/)
 [![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange?logo=jupyter)](https://jupyter.org/)
-[![EDO](https://img.shields.io/badge/Math-EDO-green.svg)](LICENSE)
+[![License](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/license/mit/)
+[![Made with Love](https://img.shields.io/badge/Made%20with-Love-red?logo=heart)]()
+[![Magic](https://img.shields.io/badge/Magic-Math%20%26%20Code-purple)](https://www.youtube.com/watch?v=3o1_1zGQ9K4)
+
+[![GitHub](https://img.shields.io/github/stars/JunhaumHayden/DataSciencePlayground?style=social)](https://github.com/JunhaumHayden/DataScience)
 
 
 # 🧪 Hayden's Lab of Data Science Experiments
@@ -19,23 +23,41 @@
 > _“Without data, you're just another person with an opinion.”_  
 > — W. Edwards Deming
 
-Este repositório é o meu **caderno de experimentos científicos digitais** 🧬, onde brinco (seriamente) com **Data Science**, **Big Data**, **Álgebra Linear**, **Cálculo Numérico**, e o maravilhoso caos do mundo dos dados.
+Este repositório é o meu **caderno de experimentos científicos digitais**, onde brinco (seriamente) com **Data Science**, **Big Data**, **Álgebra Linear**, **Cálculo Numérico**, **Probabilidade e Estatística**, e o maravilhoso caos do mundo dos dados.
 
 ---
 
 ## 🚀 O que tem aqui?
 
-📦 **Projetos, notebooks, scripts e ideias aleatórias** que envolvem:
+📦 **Projetos, notebooks, scripts e ideias aleatórias** sobre:
 
-- 📊 **Exploração de Dados** (EDA) com pandas, matplotlib e seaborn
-- 📐 **Álgebra Linear aplicada** (com `numpy` e talvez um toque de teoria dos autovalores)
-- 🔢 **Cálculo Numérico** — interpolação, Runge-Kutta, splines e outras mágicas matemáticas
-- 🧠 **Modelos de Machine Learning** básicos e intermediários (sem pular os fundamentos!)
-- 🛰️ **Big Data em pequena escala** — simulações e conceitos de Spark/Hadoop/MapReduce
-- 📈 **Visualizações que fazem o professor(a) sorrir**
+- 📊 **Exploração de Dados (EDA)** com pandas, matplotlib, seaborn
+- 📐 **Álgebra Linear aplicada** (com `numpy`, `sympy` e talvez um autovalor ou dois)
+- 🔢 **Cálculo Numérico** — interpolação, Runge-Kutta, splines e outras feitiçarias matemáticas
+- 📈 **Estatística** — distribuições, testes de hipóteses, inferência
+- 🧠 **Machine Learning clássico** (com fundamentos, não só `.fit()`)
+- 🛰️ **Big Data em pequena escala** — MapReduce, Spark conceitual, simulações
+- 🧬 **Modelagens matemáticas** (SIR, SIRS, SIRV e outros delírios epidemiológicos)
+- 🖼️ **Visualizações bonitas o suficiente para virar wallpaper**
 
 ---
-
+## Estrutura do repositório
+``` 
+datascience/
+├── learning/ # Zona de testes e experimentos
+│ ├── dataset/ # Datasets brutos e processados
+│ ├── Calculo_Numerico/ # Runge-Kutta, Interpolação, EDOs etc.
+│ ├── models/ # Modelos matemáticos e de ML
+│ ├── notebooks/ # Jupyter Notebooks explicativos
+│ └── utils/ # Funções auxiliares e ferramentas
+│
+├── projects/ # Projetos finalizados (com orgulho nerd)
+│ ├── Epidemia_Runge-Kutta/ # Modelagem de surtos e pandemias
+│ ├── Estimativas_Estatistica/ # Inferência de parâmetros estatísticos
+│ └── Telecom_Analise_Dados/ # EDA de churn em operadora fictícia
+└── README.md # Você está aqui!
+``` 
+---
 ## 🤓 Por que esse repositório?
 
 Porque o mundo é feito de dados.  
