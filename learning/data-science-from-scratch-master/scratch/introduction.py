@@ -1,4 +1,4 @@
-
+#
 """
 This is code for the introduction chapter. As such, it stands alone
 and won't be used anywhere else in the book.
