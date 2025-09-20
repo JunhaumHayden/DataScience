@@ -411,3 +411,4 @@ img/
 img/
 vendor/
 conda/
+*.pkl
